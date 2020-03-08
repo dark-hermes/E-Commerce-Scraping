@@ -1,3 +1,2 @@
-# ecommerce-scraping
-
+# E-Commerce Scraping
 For price comparison
