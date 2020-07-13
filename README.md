@@ -1,2 +1,4 @@
 # E-Commerce Scraping
-For price comparison
+The result will saved with csv or xlsx format.
+
+Intendeed for education purpose
